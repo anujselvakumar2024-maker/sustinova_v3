@@ -1,15 +1,11 @@
 {
   "soil_moisture_critical": 20,
   "soil_moisture_low": 30,
-  "soil_moisture_optimal": 50,
-  "soil_moisture_high": 70,
   "water_level_min": 200,
-  "water_level_critical": 100,
   "temperature_max": 35,
-  "temperature_critical": 40,
   "humidity_min": 40,
-  "humidity_critical": 25,
-  "rain_pause_duration": 30,
   "auto_irrigation_max_duration": 30,
-  "data_update_interval": 2000
+  "data_update_interval": 2,
+  "ai_version": "8.3_bulletproof",
+  "system_status": "verified_operational"
 }
