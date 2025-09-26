@@ -1,0 +1,13 @@
+{
+  "soil_moisture_critical": 20,
+  "soil_moisture_low": 30,
+  "water_level_min": 200,
+  "temperature_max": 35,
+  "humidity_min": 40,
+  "auto_irrigation_max_duration": 30,
+  "data_update_interval": 2,
+  "ai_analysis_interval": 30,
+  "weather_update_interval": 300,
+  "system_version": "8.4_ultimate",
+  "features": ["weather_fixed", "automatic_ai_display", "enhanced_intelligence"]
+}
